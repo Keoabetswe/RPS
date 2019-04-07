@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#218e17</color>
+    <color name="colorPrimaryDark">#44b439</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="background">#44b439</color>
+
+    <color name="opponent_color">#c61d14</color>
+    <color name="user_color">#ae3f54f4</color>
+</resources>

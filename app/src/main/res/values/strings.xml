@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RPS</string>
+
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+
+    <string name="win">You Won! :)</string>
+    <string name="lose">You Lose! :(</string>
+    <string name="draw">Draw! :|</string>
+
+    <string name="opponent">Opponent</string>
+    <string name="you">You</string>
+    <string name="vs">vs</string>
+    <string name="rules">Rules</string>
+    <string name="reset_score">Reset Score</string>
+
+    <string name="user_score">Score: </string>
+    <string name="cpu_score">Score: </string>
+
+    <string name="how_to_win">How to Win</string>
+
+    <string name="game_outcome">RPS only has 3 possible outcomes: win, lose or draw,
+        users need to press the rock, paper or scissors button for the game to start.</string>
+
+    <string name="game_rules">Rock smashes Scissors \nPaper covers Rock \nScissors cut Paper</string>
+</resources>
